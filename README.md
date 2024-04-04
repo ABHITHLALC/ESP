@@ -16,7 +16,7 @@ The ESP32 is a powerful microcontroller with dual-core processors, built-in Wi-F
 
 The ESP8266 is a cost-effective Wi-Fi microcontroller with a single-core processor and integrated TCP/IP stack. Despite its lower processing power compared to the ESP32, projects developed using the ESP8266 showcase its ability to connect to Wi-Fi networks and interact with IoT devices.
 
-### ESP-H2
+### ESP32-H2
 
 The ESP-H2 is a compact Wi-Fi microcontroller designed for IoT applications requiring low power consumption and small form factor. Projects developed using the ESP-H2 demonstrate its suitability for battery-powered and space-constrained embedded systems.
 
