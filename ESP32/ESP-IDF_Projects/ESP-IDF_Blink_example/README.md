@@ -11,6 +11,7 @@ This repository contains a simple "Blink" example for ESP32 using ESP-IDF. The p
 ## Project Details
 
 - **File**: blink_example.c
+- **ESP-IDF**: Version: 5.2
 - **Author**: ABHITHLAL C
 - **MCU**: ESP32
 - **GPIO Pin**: 2 (configurable)
