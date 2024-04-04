@@ -18,8 +18,8 @@
 #include "nvs_flash.h"
 #include "esp_http_client.h"
 
-#define WIFI_SSID "SOLO"
-#define WIFI_PASS "asdfghjkl"
+#define WIFI_SSID "your_ssid"
+#define WIFI_PASS "your_password"
 #define WIFI_MAXIMUM_RETRY 10
 #define INTERNET_CHECK_INTERVAL_MS 5000 // Check internet connectivity every 5 seconds
 
