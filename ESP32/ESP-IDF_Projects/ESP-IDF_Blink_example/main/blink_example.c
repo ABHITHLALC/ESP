@@ -6,7 +6,7 @@
  * This is a simple example demonstrating how to blink an LED connected to a GPIO pin
  * using the ESP-IDF framework. The LED blinks with a 2-second interval.
  *
- * Written by: 
+ * Written by: ABHITHLAL C
  */
 
 #include <stdio.h>
